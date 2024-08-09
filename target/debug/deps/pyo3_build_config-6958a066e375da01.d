@@ -1,0 +1,13 @@
+/Users/admindave/Source/rusty_panda/target/debug/deps/libpyo3_build_config-6958a066e375da01.rmeta: /Users/admindave/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.18.3/src/lib.rs /Users/admindave/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.18.3/src/errors.rs /Users/admindave/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.18.3/src/impl_.rs /Users/admindave/Source/rusty_panda/target/debug/build/pyo3-build-config-4567c5334b1844ff/out/pyo3-build-config-file.txt /Users/admindave/Source/rusty_panda/target/debug/build/pyo3-build-config-4567c5334b1844ff/out/pyo3-build-config.txt
+
+/Users/admindave/Source/rusty_panda/target/debug/deps/libpyo3_build_config-6958a066e375da01.rlib: /Users/admindave/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.18.3/src/lib.rs /Users/admindave/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.18.3/src/errors.rs /Users/admindave/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.18.3/src/impl_.rs /Users/admindave/Source/rusty_panda/target/debug/build/pyo3-build-config-4567c5334b1844ff/out/pyo3-build-config-file.txt /Users/admindave/Source/rusty_panda/target/debug/build/pyo3-build-config-4567c5334b1844ff/out/pyo3-build-config.txt
+
+/Users/admindave/Source/rusty_panda/target/debug/deps/pyo3_build_config-6958a066e375da01.d: /Users/admindave/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.18.3/src/lib.rs /Users/admindave/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.18.3/src/errors.rs /Users/admindave/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.18.3/src/impl_.rs /Users/admindave/Source/rusty_panda/target/debug/build/pyo3-build-config-4567c5334b1844ff/out/pyo3-build-config-file.txt /Users/admindave/Source/rusty_panda/target/debug/build/pyo3-build-config-4567c5334b1844ff/out/pyo3-build-config.txt
+
+/Users/admindave/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.18.3/src/lib.rs:
+/Users/admindave/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.18.3/src/errors.rs:
+/Users/admindave/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.18.3/src/impl_.rs:
+/Users/admindave/Source/rusty_panda/target/debug/build/pyo3-build-config-4567c5334b1844ff/out/pyo3-build-config-file.txt:
+/Users/admindave/Source/rusty_panda/target/debug/build/pyo3-build-config-4567c5334b1844ff/out/pyo3-build-config.txt:
+
+# env-dep:OUT_DIR=/Users/admindave/Source/rusty_panda/target/debug/build/pyo3-build-config-4567c5334b1844ff/out
